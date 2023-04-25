@@ -1,0 +1,22 @@
+{
+  "name": "amazon-location-geocording-sample",
+  "version": "1.0.0",
+  "description": "##  1. インデックスを作成",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naogify/amazon-location-geocording-sample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naogify/amazon-location-geocording-sample/issues"
+  },
+  "homepage": "https://github.com/naogify/amazon-location-geocording-sample#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1364.0"
+  }
+}
