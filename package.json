@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/naogify/amazon-location-geocording-sample#readme",
   "dependencies": {
-    "aws-sdk": "^2.1364.0"
+    "@aws-sdk/client-location": "^3.319.0"
   }
 }
