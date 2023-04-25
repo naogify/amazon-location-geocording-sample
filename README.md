@@ -10,7 +10,11 @@
 ![スクリーンショット 2023-04-25 23 25 51](https://user-images.githubusercontent.com/8760841/234309922-8b1c72b8-de02-4e8e-ab83-0aa9183ec644.png)
 ![スクリーンショット 2023-04-25 23 31 41](https://user-images.githubusercontent.com/8760841/234310033-05d041d0-5c15-4d9e-aab1-25442ee19b30.png)
 
+## 2. クレデンシャル情報を作成する
 
-## 2.クレデンシャル情報とインデックス名を追加
+https://us-east-1.console.aws.amazon.com/iamv2/home#/users にアクセスし、サイドバーの 「アクセス管理」 > 「ユーザー」 から、ユーザーを作成する。
+
+
+## 3.クレデンシャル情報とインデックス名を追加
 
 - script 内の `IndexName` にインデックス名を追加
